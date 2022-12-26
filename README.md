@@ -10,10 +10,17 @@ to run the following algorithms. For Prims, Kruskal & Clustering Coefficient in 
 Theory, if there is a link between two nodes, then consider this as edge in 
 undirected graph. If there are two directed link b/w edges, then consider the edge 
 with minimum cost. 
+<br>
+<br>
 (1) Prims
+<br>
 (2) Kruskal
+<br>
 (3) Dijkstra
+<br>
 (4) Bellman Ford
+<br>
 (5) Floyd Warshall Algorithm
+<br>
 (6) Clustering Coefficient in Graph Theory (Only Local Clustering). The final cost 
 should be the average of all local clustering of all nodes
